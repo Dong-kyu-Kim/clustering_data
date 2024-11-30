@@ -1,5 +1,4 @@
 # clustering_data
-clustering_data
 
 We started first with restaurant review data pulled from Kaggle and our main objective was to develop and implement an unsupervised learning model to analyze and separate the data into two clusters for comparison. Ultimately with further iterations we would like to have the model determine "Go" or "Don't Go" for each restaurant. 
 
