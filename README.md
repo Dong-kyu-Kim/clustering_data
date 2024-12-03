@@ -1,7 +1,5 @@
 # PCA and K-means-Based Clustering Analysis on Restaurant Dataset
 
-# Dataset
-
 Dataset: https://www.kaggle.com/datasets/anthonytherrien/restaurant-revenue-prediction-dataset/data 
 
 The restaurant dataset provided by Kaggle was utilized and stored in a database table named restaurant_data. The original dataset consists of 17 columns and 8368 rows. 
