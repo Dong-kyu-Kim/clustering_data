@@ -1,4 +1,4 @@
-"name","location","cuisine","rating","seating_capacity","average_meal_price","marketing_budget","social_media_followers","chef_experience_years","number_of_reviews","avg_review_length","ambience_score","service_quality_score","parking_availability","weekend_reservations","weekday_reservations","revenue"
+"Name","Location","Cuisine","Rating","Seating Capacity","Average Meal Price","Marketing Budget","Social Media Followers","Chef Experience Years","Number of Reviews","Avg Review Length","Ambience Score","Service Quality Score","Parking Availability","Weekend Reservations","Weekday Reservations","Revenue"
 "Restaurant 0","Rural","Japanese","4",38,"73.98","2224",23406,13,185,"161.92490574327928","1.3","7","Yes",13,4,"638945.52"
 "Restaurant 1","Downtown","Mexican","3.2",76,"28.11","4416",42741,8,533,"148.7597173739537","2.6","3.4","Yes",48,6,"490207.83"
 "Restaurant 2","Rural","Italian","4.7",48,"48.29","2796",37285,18,853,"56.84918945954191","5.3","6.7","No",27,14,"541368.62"
