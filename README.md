@@ -2,6 +2,8 @@
 
 Dataset: https://www.kaggle.com/datasets/anthonytherrien/restaurant-revenue-prediction-dataset/data 
 
+![Original Features](https://github.com/user-attachments/assets/8a207187-d653-403e-b26c-7215229b89a8)
+
 The restaurant dataset provided by Kaggle was utilized and stored in a database table named restaurant_data. The original dataset consists of 17 columns and 8368 rows. 
 
 # Standardizing the Data
