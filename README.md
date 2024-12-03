@@ -12,7 +12,7 @@ During the preprocessing stage, numerical variables were standardized by transfo
 
 To reduce dimensionality, Principal Component Analysis (PCA) was applied, which condensed the 24 original features into 9 principal components. These 9 components explain approximately 81% of the total variance in the data, indicating that the essential information of the dataset was effectively retained during dimensionality reduction.
 
-# CLustering
+# Clustering
 
 Using the reduced 9 principal components, K-means clustering was performed to determine the optimal number of clusters. While employing the Elbow Method, no clear point of inflection was identified. Therefore, the Calinski-Harabasz score was used for a more quantitative evaluation of clustering quality. The analysis revealed that the highest Calinski-Harabasz score was achieved with 2 clusters, and the score exhibited a declining trend as the number of clusters increased.
 
