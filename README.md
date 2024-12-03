@@ -6,7 +6,7 @@
 
 - The restaurant dataset provided by Kaggle was utilized and stored in a database table named restaurant_data. The original dataset consists of 17 columns and 8368 rows. 
 #
-# Standardizing the Data
+# 1. Standardizing the Data
 
 ![Screenshot 2024-12-02 202127](https://github.com/user-attachments/assets/e03d4fe3-7a2d-4efa-a944-d61b9a626333) 
 
@@ -16,13 +16,13 @@
 
 - Categorical variables were converted into dummy variables using one-hot encoding and subsequently standardized. These two processed data frames were concatenated to form a final dataset with 24 columns and 8368 rows.
 #
-# Reducing the Dimensionality of Data Using PCA (Principal Component Analysis)
+# 2. Reducing the Dimensionality of Data Using PCA (Principal Component Analysis)
 
 ![PCA](https://github.com/user-attachments/assets/c8ce50ca-a5b9-46fe-b998-2e08eec782a9) 
 
 - To reduce dimensionality, Principal Component Analysis (PCA) was applied, which condensed the 24 original features into 9 principal components. These 9 components explain approximately 81% of the total variance in the data, indicating that the essential information of the dataset was effectively retained during dimensionality reduction.
 #
-# Clustering
+# 3. Clustering
 
 ![Elbow Method](https://github.com/user-attachments/assets/02c1683a-39fc-472c-8aa6-78b9e4340f01) 
 
