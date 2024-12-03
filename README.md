@@ -38,9 +38,10 @@ Each of our visualizations aim to show the similarities and difference between t
 - Using the reduced 9 principal components, K-means clustering was performed to determine the optimal number of clusters. While employing the Elbow Method, no clear point of inflection was identified. 
 
 ![Calinski Harabasz Score](https://github.com/user-attachments/assets/59375701-5cf4-4ecc-bf03-9d852eca67a4) 
-![Calinski Harabasz Score DF](https://github.com/user-attachments/assets/ae512a79-02c0-4f6e-8e72-8685a1a5a252) 
 
 - Therefore, the Calinski-Harabasz score was used for a more quantitative evaluation of clustering quality. The analysis revealed that the highest Calinski-Harabasz score was achieved with 2 clusters, and the score exhibited a declining trend as the number of clusters increased.
+
+![Calinski Harabasz Score DF](https://github.com/user-attachments/assets/ae512a79-02c0-4f6e-8e72-8685a1a5a252) 
 
 - Specifically, the highest score with 2 clusters was 2072.745783, which is approximately 37% higher than the second-highest score of 1509.005237 observed with 3 clusters. This result indicates that 2 clusters provide the best clustering quality with the most distinct separation between clusters.
 
