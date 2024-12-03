@@ -60,14 +60,18 @@ Using the standardized data helps to ensure we can compare between variables, bu
 Between the two clusters we see more variability in the SD of the measures for Cluster 0 versus Cluster 1. Cluster 1 overall has a more consistent, but larger, standard deviation for each measure. In large, it appears that Cluster 1 has more “normal” distribution of the data and may help to indicate that these are the restaurants that should be included in the “Go” group.
 
 #
-# Social Media 
+# Social Media Marketing Budget
 
 Both clusters show a positive relationship between Social Media Followers and Marketing Budget. There are indicators that businesses investing more in marketing efforts, tend to gain more followers on social media. While both clusters show similar results, Cluster 1 may reflect more substantial investments in marketing, contributing to an even greater increase in social media followers compared to Cluster 0.
 
+![Screenshot 2024-12-02 210421](https://github.com/user-attachments/assets/ecffaf24-f7b3-4bf8-980e-9a9e5dc14c14)
+
 #
-# Marketing Budget 
+# Marketing Budget and Revenue
 
 Both clusters show a negative relationship between Marketing Budget and Revenue. As Marketing Budget increases, Revenue tends to decrease for both clusters, but the rate of decrease varies between them. Businesses in Cluster 0 may need to reassess their marketing strategies, as their higher marketing budget is not yielding revenue gains to match. Cluster 1 shows a more moderate decline in Revenue with increasing Marketing Budget, suggesting that marketing efforts might be more effective or have diminishing returns at a slower rate.
+
+![Screenshot 2024-12-02 210525](https://github.com/user-attachments/assets/679fc24e-5b8e-4b6b-bc9a-4e401bc30c90)
 
 #
 # Weekend Reservations and Average Meal Price 
