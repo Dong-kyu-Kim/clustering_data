@@ -1,4 +1,28 @@
-# clustering_data
+# PCA and K-means-Based Clustering Analysis on Restaurant Dataset
+
+# Dataset
+
+Dataset: https://www.kaggle.com/datasets/anthonytherrien/restaurant-revenue-prediction-dataset/data 
+
+The restaurant dataset provided by Kaggle was utilized and stored in a database table named restaurant_data. The original dataset consists of 17 columns and 8368 rows. 
+
+# Standardizing the Data
+
+During the preprocessing stage, numerical variables were standardized by transforming them to have a mean of 0 and a standard deviation of 1. Categorical variables were converted into dummy variables using one-hot encoding and subsequently standardized. These two processed data frames were concatenated to form a final dataset with 24 columns and 8368 rows.
+
+# Reducing the Dimensionality of Data Using PCA (Principal Component Analysis)
+
+To reduce dimensionality, Principal Component Analysis (PCA) was applied, which condensed the 24 original features into 9 principal components. These 9 components explain approximately 81% of the total variance in the data, indicating that the essential information of the dataset was effectively retained during dimensionality reduction.
+
+# CLustering
+
+Using the reduced 9 principal components, K-means clustering was performed to determine the optimal number of clusters. While employing the Elbow Method, no clear point of inflection was identified. Therefore, the Calinski-Harabasz score was used for a more quantitative evaluation of clustering quality. The analysis revealed that the highest Calinski-Harabasz score was achieved with 2 clusters, and the score exhibited a declining trend as the number of clusters increased.
+
+Specifically, the highest score with 2 clusters was 2072.745783, which is approximately 37% higher than the second-highest score of 1509.005237 observed with 3 clusters. This result indicates that 2 clusters provide the best clustering quality with the most distinct separation between clusters.
+
+Finally, cluster labels generated from K-means clustering based on the 9 principal components were combined with the standardized data frame and stored in the database. This processed data can serve as a valuable resource for future analyses or modeling efforts.
+
+#
 
 We started first with restaurant review data pulled from Kaggle and our main objective was to develop and implement an unsupervised learning model to analyze and separate the data into two clusters for comparison. Ultimately with further iterations we would like to have the model determine "Go" or "Don't Go" for each restaurant. 
 
