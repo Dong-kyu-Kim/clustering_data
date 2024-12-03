@@ -60,7 +60,7 @@ Using the standardized data helps to ensure we can compare between variables, bu
 Between the two clusters we see more variability in the SD of the measures for Cluster 0 versus Cluster 1. Cluster 1 overall has a more consistent, but larger, standard deviation for each measure. In large, it appears that Cluster 1 has more “normal” distribution of the data and may help to indicate that these are the restaurants that should be included in the “Go” group.
 
 #
-# Social Media Marketing Budget
+# Social Media and Marketing Budget
 
 Both clusters show a positive relationship between Social Media Followers and Marketing Budget. There are indicators that businesses investing more in marketing efforts, tend to gain more followers on social media. While both clusters show similar results, Cluster 1 may reflect more substantial investments in marketing, contributing to an even greater increase in social media followers compared to Cluster 0.
 
