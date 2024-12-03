@@ -70,15 +70,14 @@ Both clusters show a positive relationship between Social Media Followers and Ma
 Both clusters show a negative relationship between Marketing Budget and Revenue. As Marketing Budget increases, Revenue tends to decrease for both clusters, but the rate of decrease varies between them. Businesses in Cluster 0 may need to reassess their marketing strategies, as their higher marketing budget is not yielding revenue gains to match. Cluster 1 shows a more moderate decline in Revenue with increasing Marketing Budget, suggesting that marketing efforts might be more effective or have diminishing returns at a slower rate.
 
 #
-# Weekend RSVPs and Meal Price 
+# Weekend Reservations and Average Meal Price 
 
-Both clusters show a negative relationship between Marketing Budget and Revenue. As Marketing Budget increases, Revenue tends to decrease for both clusters, but the rate of decrease varies between them. Businesses in Cluster 0 may need to reassess their marketing strategies, as their higher marketing budget is not yielding revenue gains to match. Cluster 1 shows a more moderate decline in Revenue with increasing Marketing Budget, suggesting that marketing efforts might be more effective or have diminishing returns at a slower rate.
+Weekend Reservations and Average Meal Price - Both clusters show a negative relationship between Weekend Reservation and Average Meal Price. As Weekend Reservations increase, the Average Meal Price tends to decrease for both clusters. The scatter plot suggests that businesses in Cluster 0 might need to adjust their pricing models, as they see a more significant decrease in prices with increasing Weekend Reservations. On the other hand, businesses in Cluster 1 seem to have a more effective pricing strategy that allows them to maintain Meal Prices even as demand rises. 
 
 #
-# Weekend RSVP and Ambience 
+# Weekend Reservations and Ambience Scores
 
-Both clusters show a negative relationship between Marketing Budget and Revenue. As Marketing Budget increases, Revenue tends to decrease for both clusters, but the rate of decrease varies between them.
-Businesses in Cluster 0 may need to reassess their marketing strategies, as their higher marketing budget is not yielding revenue gains to match. Cluster 1 shows a more moderate decline in Revenue with increasing Marketing Budget, suggesting that marketing efforts might be more effective or have diminishing returns at a slower rate.
+Weekend Reservations and Ambience Scores - Businesses with higher Ambience scores tend to have more Weekend Reservations. The bubble chart indicates a general trend where businesses with higher Ambience scores tend to have more Weekend Reservations, and Cluster 0, with a better atmosphere, has higher Reservations on the weekends. However, the relationship is not necessarily linear, meaning there are variations within each cluster. Some businesses in Cluster 0 may still have lower reservations despite their higher ambiance scores, and vice versa in Cluster 1. 
 
 #
 # Number of Reviews and Average Revenue 
